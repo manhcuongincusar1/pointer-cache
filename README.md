@@ -1,2 +1,8 @@
 # pointer-cache
-golang cache library to cache any variable
+## Use cases:
+
+## How Pointer Cache Manage Memory?
+## Example:
+
+## 
+
